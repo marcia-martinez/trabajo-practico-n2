@@ -1,0 +1,40 @@
+login-conteiner {
+  margin-top: 50px;
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+
+  }
+
+
+
+  
+.buttom-send-login {
+  margin-top: 15px;
+  margin-left: 40px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.login-label {
+  margin-bottom: 8px;
+  display: block;
+  font-weight: bold;
+  }
+
+.login-input {
+  margin-bottom: 8px;
+  display: block;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+}

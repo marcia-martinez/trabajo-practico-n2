@@ -1,0 +1,36 @@
+.TargetaProducto_MargenIzquierdo {
+  margin-left: 220px;
+}
+
+.listPrinterBody {
+  display: flex;
+  align-items: flex-start;
+  border: 1px solid #181515;
+  padding: 20px;
+  margin: 10px 0;
+  width: 80%; 
+  max-width: 600px;
+}
+
+.listPrinterText{
+  display: block;
+}
+
+.listPrinterBody img {
+  margin-right: 20px; 
+}
+
+.listPrinterContent {
+  flex: 1; 
+}
+
+.listPrinterContent h3,
+.listPrinterContent p {
+  margin: 5px 0;
+}
+
+.listPrinterContent button {
+  margin-top: 10px;
+}
+
+
